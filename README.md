@@ -1,80 +1,112 @@
-# 👋 Hey, I'm Abdullah Shah
-
-**Data Enthusiast • ML Learner • AI Explorer**  
-*Passionate about turning raw data into meaningful insights.*
-
----
-
-## 🔗 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/abdullah-cse27  
-- **Email:** shahabdulla09856@gmail.com  
+<!-- ====== PREMIUM HEADER BANNER ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Abdullah+Shah;Data+Enthusiast;Machine+Learning+Learner;AI+Explorer;Turning+Data+Into+Insights" />
+</p>
 
 ---
 
-## 🧠 About Me  
-- 🎓 **B.Tech CSE’27**  
-- 🐍 Skilled in **Python, SQL, Pandas**  
-- 🤖 Learning **Machine Learning & Generative AI**  
-- 📊 Interested in **Data Cleaning, EDA, Visualization & Insight Extraction**  
-- 🎖 Certified by **AnalyticsShala**  
-- 🌱 Exploring real-world datasets & ML workflows  
+# 🌌 **Abdullah Shah**
+
+### **Data Enthusiast • ML Learner • AI Explorer**  
+*Focused on building clean, smart, scalable data solutions.*
 
 ---
 
-## 🔧 Tech Stack  
-- **Languages:** Python, SQL, JavaScript  
-- **Data:** Pandas, NumPy  
-- **ML:** Scikit-Learn, TensorFlow (beginner)  
-- **Tools:** Git, GitHub, Jupyter Notebook  
-- **Web Basics:** HTML, CSS  
+## ⚡ **About Me**
+- 🎓 B.Tech CSE’27  
+- 🐍 Python • SQL • Pandas  
+- 🤖 Exploring ML, Generative AI & Automation  
+- 🔍 Love working on real datasets  
+- 📊 EDA • Insight Extraction • Visualization  
+- 🚀 Growing into a full-stack Data & AI developer  
 
 ---
 
-## 📈 GitHub Activity Summary *(Markdown-Safe Version)*  
-*(External images load नहीं हो रहे, इसलिए यह clean markdown stats version है)*
+## 🛠️ **Tech Stack**
 
-### ⭐ Contributions  
-████████████████████████ 100%
+**Languages:**  
+Python • SQL • JavaScript  
 
+**Data Tools:**  
+Pandas • NumPy  
 
-### 📊 Activity Snapshot  
-- Commits: Auto  
-- Repositories: Auto  
-- Followers: Auto  
-- Stars: Auto  
+**ML Tools:**  
+Scikit-Learn • TensorFlow (Basics)  
 
----
+**Tools:**  
+Git • GitHub • Jupyter Notebook  
 
-## 🏆 Achievements  
-- 🏅 Contributing to open-source  
-- 📚 Expanding knowledge in Machine Learning  
-- 🚀 Active on GitHub  
-- 🔍 Curious about real-world data problems  
+**Web Basics:**  
+HTML • CSS  
 
 ---
 
-## 🎯 Goals  
-- Master core ML algorithms  
-- Upload structured Jupyter notebooks  
-- Build real-world ML pipelines  
-- Collaborate on AI/Data projects  
-- Improve DS/ML portfolio  
+# ⚙️ **Projects I'm Building**
+### 📘 *Machine Learning Essentials*
+- Clean → Process → Feature Engineer → Train → Deploy  
+- Real datasets: Zomato, Netflix, Sales, Health…
+
+### 📊 *EDA & Analytics Notebooks*
+- Deep-dive dataset understanding  
+- Visual pattern discovery  
+- Insights extraction  
+
+### 🤖 *AI Experiments*
+- ML basics  
+- Regression & Classification  
+- Beginner ML models  
 
 ---
 
-## 📂 What I’m Currently Working On  
-- Learning ML workflow from scratch  
-- Building datasets → cleaning → EDA → modeling  
-- Strengthening fundamentals of Python & SQL  
-- Exploring Generative AI concepts  
+# 📈 **My GitHub Activity (Clean Markdown Style)**  
+*(External APIs break → safest clean version)*
+
+**🔥 Work Rhythm**  
+███████████████████████░
+
+
+**⏳ This Month**  
+██████████████░░░░░░░░░
+
+
+**🚀 Overall Progress**  
+████████████████████████
+
 
 ---
 
-## 📬 Reach Out  
-If you'd like to collaborate, discuss ML workflows, or share ideas—  
-📧 **Email:** shahabdulla09856@gmail.com  
+# 🏆 **Achievements**
+- 🥇 Learning ML fundamentals  
+- 🧠 Consistent GitHub Growth  
+- 🚀 Exploring real-world datasets  
+- 📚 Continuous learning habit  
 
 ---
 
-### Thanks for visiting my GitHub profile!  
+# 🌱 **What I’m Improving Right Now**
+- Stronger Python foundations  
+- Better ML workflows  
+- Cleaner EDA & visualizations  
+- Real-world problem solving  
+- Writing clean, maintainable code  
 
+---
+
+# 🤝 **Collaboration**
+I'm always open to working with people interested in:
+
+- ML experiments  
+- Jupyter notebooks  
+- Data analysis  
+- Learning together  
+
+---
+
+## 📬 **Connect With Me**
+- 📧 Email → **shahabdulla09856@gmail.com**  
+- 🔗 LinkedIn → **https://www.linkedin.com/in/abdullah-cse27**
+
+---
+
+<p align="center"><b>✨ Thanks for visiting my GitHub profile ✨</b></p>
+<p align="center">Keep Learning • Keep Building • Keep Growing 🚀</p>
