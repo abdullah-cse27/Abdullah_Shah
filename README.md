@@ -1,110 +1,100 @@
-<!-- ====== PREMIUM HEADER BANNER ====== -->
+<!-- PREMIUM ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Abdullah+Shah;Data+Enthusiast;Machine+Learning+Learner;AI+Explorer;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2300&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Abdullah+Shah;Data+Enthusiast+%7C+ML+Learner;AI+Explorer+%7C+Gen+AI+%26+NLP;Turning+Data+Into+Insights..." />
 </p>
 
 ---
 
-# 🌌 **Abdullah Shah**
+# 🌌 Abdullah Shah
 
-### **Data Enthusiast • ML Learner • AI Explorer**  
-*Focused on building clean, smart, scalable data solutions.*
+### 🚀 Data Enthusiast • Machine Learning Learner • AI Explorer  
+*Focused on building intelligent & scalable data-driven systems.*
 
 ---
 
-## ⚡ **About Me**
+## ⚡ About Me
 - 🎓 B.Tech CSE’27  
 - 🐍 Python • SQL • Pandas  
-- 🤖 Exploring ML, Generative AI & Automation  
-- 🔍 Love working on real datasets  
+- 🤖 Learning ML, GenAI & NLP  
+- 🔍 Love exploring real-world datasets  
 - 📊 EDA • Insight Extraction • Visualization  
-- 🚀 Growing into a full-stack Data & AI developer  
+- 🚀 Becoming a full-stack Data & AI developer  
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-**Languages:**  
-Python • SQL • JavaScript  
+### Languages  
+Python • SQL
 
-**Data Tools:**  
-Pandas • NumPy  
+### Data & ML  
+Pandas • NumPy • Scikit-Learn • TensorFlow • NLP • Generative AI
 
-**ML Tools:**  
-Scikit-Learn • TensorFlow (Basics)  
-
-**Tools:**  
-Git • GitHub • Jupyter Notebook  
-
-**Web Basics:**  
-HTML • CSS  
+### Tools  
+Git • GitHub • Jupyter Notebook
 
 ---
 
-# ⚙️ **Projects I'm Building**
-### 📘 *Machine Learning Essentials*
+# ⚙️ Projects I'm Building
+
+### 📘 Machine Learning Essentials  
 - Clean → Process → Feature Engineer → Train → Deploy  
-- Real datasets: Zomato, Netflix, Sales, Health…
+- Using datasets like Zomato, Netflix, Sales, Health…
 
-### 📊 *EDA & Analytics Notebooks*
+### 📊 EDA & Analytics Notebooks  
 - Deep-dive dataset understanding  
 - Visual pattern discovery  
-- Insights extraction  
+- Data storytelling & insights  
 
-### 🤖 *AI Experiments*
+### 🤖 AI Experiments  
 - ML basics  
-- Regression & Classification  
-- Beginner ML models  
+- Classification, Regression  
+- GenAI mini-projects  
 
 ---
 
-# 📈 **My GitHub Activity (Clean Markdown Style)**  
-*(External APIs break → safest clean version)*
+# 📈 My GitHub Activity (Always Works)
 
-**🔥 Work Rhythm**  
-███████████████████████░
+🔥 Consistency  
+██████████████████████░░
 
-
-**⏳ This Month**  
+⏳ Learning Pace  
 ██████████████░░░░░░░░░
 
-
-**🚀 Overall Progress**  
+🚀 Overall Progress  
 ████████████████████████
 
+---
+
+# 🏆 Achievements  
+- 🥇 ML foundations  
+- 🧠 Consistent GitHub growth  
+- 🚀 Real datasets explorer  
+- 📚 Continuous improvement mindset  
 
 ---
 
-# 🏆 **Achievements**
-- 🥇 Learning ML fundamentals  
-- 🧠 Consistent GitHub Growth  
-- 🚀 Exploring real-world datasets  
-- 📚 Continuous learning habit  
-
----
-
-# 🌱 **What I’m Improving Right Now**
-- Stronger Python foundations  
+# 🌱 What I’m Improving  
+- Python depth  
 - Better ML workflows  
-- Cleaner EDA & visualizations  
-- Real-world problem solving  
+- Cleaner EDA & visualization  
+- Real-world data techniques  
 - Writing clean, maintainable code  
 
 ---
 
-# 🤝 **Collaboration**
-I'm always open to working with people interested in:
-
-- ML experiments  
-- Jupyter notebooks  
-- Data analysis  
+# 🤝 Collaboration  
+Interested in:  
+- ML notebooks  
+- Dataset analysis  
+- GenAI experiments  
 - Learning together  
 
 ---
 
-## 📬 **Connect With Me**
-- 📧 Email → **shahabdulla09856@gmail.com**  
-- 🔗 LinkedIn → **https://www.linkedin.com/in/abdullah-cse27**
+## 📬 Contact  
+📧 Email → shahabdulla09856@gmail.com  
+🔗 LinkedIn → https://www.linkedin.com/in/abdullah-cse27
 
 ---
 
